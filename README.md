@@ -14,7 +14,7 @@ This is a messaging app created to lean about Angular and TypeScirpt.
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-Start the express server by running npm run start:server
+Start the express server by running `npm run start:server`
 
 ## Code scaffolding
 

@@ -1,3 +1,0 @@
-ryc3qBTgAbQxcQgb
-
-communique
