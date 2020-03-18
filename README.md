@@ -10,6 +10,7 @@ This is a messaging app created to lean about Angular and TypeScirpt.
 - Express
 - Angular Material
 - Mongoose
+- Multer
 
 ## Getting started
 
