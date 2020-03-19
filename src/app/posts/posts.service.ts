@@ -34,11 +34,11 @@ export class PostsService {
           };
         })
       )
-      .subscribe(transformedPostsData => {
-        this.posts = transformedPostsData.posts;
+      .subscribe(transformedPostData => {
+        this.posts = transformedPostData.posts;
         this.postsUpdated.next({
           posts: [...this.posts],
-          postCount: transformedPostsData.maxPosts
+          postCount: transformedPostData.maxPosts
         });
       });
   }
@@ -95,6 +95,7 @@ export class PostsService {
   }
 
   deletePost(postId: string) {
-    return this.http.delete("http://localhost:3000/api/posts/" + postId);
+    return this.http
+      .delete("http://localhost:3000/api/posts/" + postId);
   }
 }
