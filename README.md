@@ -1,6 +1,14 @@
 # Communique
 
-This is a messaging app created to lean about Angular and TypeScirpt.
+This is a messaging app created to lean about Angular and TypeScirpt. Some of the features include: user authentication, authorization, and pagination.
+
+## Screenshot
+
+### Before Signup
+
+Prior to signing up users can view all messages.
+
+!["Prior to signing up users can view all messages"](https://github.com/Lizzyfemme/communique/blob/master/screenshots/prior-to-signup.png)
 
 ## Stack
 
