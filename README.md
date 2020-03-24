@@ -12,9 +12,21 @@ Prior to signing up users can view all messages.
 
 ### Signup and Login Page
 
-New users can signup for communiqué, and existing users can login.
+New users can signup for Communiqué, and existing users can login.
 
 !["Signup and login page"](https://github.com/Lizzyfemme/communique/blob/master/screenshots/singup_and_login.png)
+
+### User's View
+
+Once logged in users can edit and delete their own posts, but not the post of other users.
+
+!["Edit and Delete buttons visable on posts"](https://github.com/Lizzyfemme/communique/blob/master/screenshots/user_view.png)
+
+### Error Messages
+
+An error message will occur if a user makes a mistakes, or uses Communiqué incorrectly.
+
+!["Error Message popup"](https://github.com/Lizzyfemme/communique/blob/master/screenshots/error.png)
 
 ## Stack
 
@@ -33,8 +45,10 @@ New users can signup for communiqué, and existing users can login.
 
 1. Fork or clone the repo.
 2. Run `npm install` to install all dependencies.
-3. Run `ng serve` to start the Angular server.
-4. Run `npm run start:server` to start the express server.
+3. Create a MongoDB sandbox.
+4. Add the login information to the backend/app.js file.
+5. Run `ng serve` to start the Angular server.
+6. Run `npm run start:server` to start the express server.
 
 ## Other options
 
