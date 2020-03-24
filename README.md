@@ -1,4 +1,4 @@
-# Communique
+# Communiqué
 
 This is a messaging app created to lean about Angular and TypeScirpt. Some of the features include: user authentication, authorization, and pagination.
 
@@ -14,13 +14,13 @@ Prior to signing up users can view all messages.
 
 New users can signup for Communiqué, and existing users can login.
 
-!["Signup and login page"](https://github.com/Lizzyfemme/communique/blob/master/screenshots/singup_and_login.png)
+!["Signup and login page"](https://github.com/Lizzyfemme/communique/blob/master/screenshots/singup-and-login.png)
 
 ### User's View
 
 Once logged in users can edit and delete their own posts, but not the post of other users.
 
-!["Edit and Delete buttons visable on posts"](https://github.com/Lizzyfemme/communique/blob/master/screenshots/user_view.png)
+!["Edit and Delete buttons visable on posts"](https://github.com/Lizzyfemme/communique/blob/master/screenshots/user-view.png)
 
 ### Error Messages
 
