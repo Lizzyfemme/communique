@@ -10,6 +10,12 @@ Prior to signing up users can view all messages.
 
 !["Prior to signing up users can view all messages"](https://github.com/Lizzyfemme/communique/blob/master/screenshots/prior-to-signup.png)
 
+### Signup and Login Page
+
+New users can signup for communiqué, and existing users can login.
+
+!["Signup and login page"](https://github.com/Lizzyfemme/communique/blob/master/screenshots/singup_and_login.png)
+
 ## Stack
 
 - MongoDB
