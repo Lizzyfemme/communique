@@ -1,6 +1,6 @@
 # Communiqué
 
-This is a messaging app created to lean about Angular and TypeScript. Some of the features include: user authentication, authorization, and pagination.
+This is a messaging app created to learn about Angular and TypeScript. Some of the features include: user authentication, authorization, and pagination.
 
 ## Screenshot
 
